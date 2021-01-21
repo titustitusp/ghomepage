@@ -1,0 +1,45 @@
+#navbar
+{
+  
+    list-style-type: none;
+    margin: 16px;
+    padding: 0;
+    
+
+}
+
+#navbar a{
+    float:right;
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+    padding: 0px 10px;
+}
+.si{
+    border: 1px solid #4285f4;
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    font-weight: bold;
+    outline: none;
+    color:white !important;
+    border-radius:2px;
+    line-height: 28px;
+    padding:0 12px !important;
+    margin:-5px 15px!important;
+   
+ 
+}
+.container
+{
+    position: absolute;
+    left: 40%;
+    top : 30%;
+}
+input
+{
+    border-radius: 34px;
+    width:300px;
+    height:34px !important;
+}
+
+div{ 
+    display:block;
+}
